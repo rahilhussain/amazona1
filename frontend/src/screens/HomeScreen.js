@@ -43,14 +43,14 @@ function HomeScreen(props) {
             <button type="submit">Search</button>
           </form>
         </li>
-        <li>
+        {/* <li>
           Sort By{' '}
           <select name="sortOrder" onChange={sortHandler}>
             <option value="">Newest</option>
             <option value="lowest">Lowest</option>
             <option value="highest">Highest</option>
           </select>
-        </li>
+        </li> */}
       </ul>
       {loading ? (
         <div>Loading...</div>
