@@ -1,9 +1,13 @@
-# React & Node Project - Full ECommerce + connection with cloud mongo database
+evX website is platform where normal people can find
+webinars,private meets with experts on the topics they are
+interested on. evX Application was developed by leveraging
+the power of Asynchronous event driven programming of
+Node.js,which helps to manage heavy traffic between client
+and server and improves speed in communication.
 
+## website:
+https://www.evx.net.in/
 
-## Demo Website
-
-👉 Demo : https://mnap.herokuapp.com/shipping
 
 
 ## This system has the following features and technologies
